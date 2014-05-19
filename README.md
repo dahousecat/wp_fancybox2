@@ -1,4 +1,5 @@
 === FancyBox2 ===
+
 Contributors: Felix Eve
 Tags: javascript, images, lightbox, fancybox, fancybox2
 Requires at least: 2.7
